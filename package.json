@@ -1,0 +1,10 @@
+{
+  "name": "Poser",
+  "version": "0.0.1",
+  "description": "Act like a real DB",
+  "dependencies": {
+    "cors": "^2.5.3",
+    "express": "^4.12.3",
+    "mongoose": "^3.8.25"
+  }
+}
